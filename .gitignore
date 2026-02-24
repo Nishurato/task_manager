@@ -1,0 +1,5 @@
+__pycache__/
+*.db
+tasks.db
+__pycache__/database.cpython-314.pyc
+__pycache__/ui.cpython-314.pyc
